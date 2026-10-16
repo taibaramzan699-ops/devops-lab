@@ -1,2 +1,4 @@
 out/
 *.log
+
+# Build output and logs
